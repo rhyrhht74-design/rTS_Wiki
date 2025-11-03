@@ -14,8 +14,9 @@ r/TechSupport requires you to have Embeds enabled to see our rules and other use
 
 1. Click the User Settings cog icon in the bottom left corner
 
-    ![Discord Setting Icon](../../../assets/Discord_Embeds/DiscordEmbedSettingIcon.webp)
+    ![Discord Setting Icon](../../../assets/Discord_Embeds/DiscordEmbedSettingIconghhkey s
+   .webp)
 
-2. Select the "Text & Images" Tab. And enable "Embeds and Link Previews"
+3. Select the "Text & Images" Tab. And enable "Embeds and Link Previews"
 
     ![Discord Chat Settings](../../../assets/Discord_Embeds/DiscordChatSetting.webp)
